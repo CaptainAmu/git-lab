@@ -1,6 +1,6 @@
 # git-lab
 Git usage lab.
 
-status: draft
+status: PUBLISHED.
 
 Author name: Shucheng
